@@ -1,5 +1,1 @@
-# Pokemon_site_v1
-
-This is v1 of my pokemon app..
-
-Working on v2..which will add more features
+A pokemon site which supports searching of pokemon you want to view.(Only implemented it for 25 pokemons :) )
